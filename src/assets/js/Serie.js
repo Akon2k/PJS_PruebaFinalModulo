@@ -13,7 +13,7 @@ class Serie {
       marco.innerHTML += `
                 <div class="col-sm-3 col-lg-3 mt-5 mr-5">
                     <div class="card" style="width: 18rem;" >
-                        <img src="${personaje.imagen}" class="card-img-top" alt="...">
+                        <img src="${personaje.imagen}" class="card-img-top" alt="Monito">
                         <div class="card-body text-center m">
                             <h4 class="card-title">${personaje.obtenerNombre}</h4>
                             <h5 class="card-title">Especie : ${personaje.especie}</h5>
